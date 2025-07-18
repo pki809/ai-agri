@@ -1,0 +1,30 @@
+# Deploy App
+
+This app can be deployed to various platforms.
+
+## Deployment Options
+
+- **Vercel**: Easy deployment with zero configuration
+- **Netlify**: JAMstack deployment platform
+- **Railway**: Modern deployment platform
+- **Heroku**: Classic cloud platform
+
+## Steps
+
+1. Build the application
+2. Configure environment variables
+3. Deploy to your chosen platform
+4. Set up custom domain (optional)
+
+## Environment Variables
+
+Make sure to set up the following environment variables in your deployment platform:
+
+- Database configuration
+- JWT secrets
+- API keys
+- Email configuration
+
+## Support
+
+For deployment issues, check the platform-specific documentation or contact support.
